@@ -1,0 +1,52 @@
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.body{
+    background-color: green;
+    padding: 50px;
+}
+.body1{
+    background-color: rgb(24, 74, 184);
+    padding: 50px;
+}
+.topic{
+    text-align: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.k {
+    text-align: center;
+    padding: 10px;
+}
+.k img{
+    gap: 110px;
+    background-color: rgb(4, 105, 64);
+    padding: 20px;
+    border-radius: 10px;
+}
+.k1 {
+    text-align: center;
+    padding: 10px;
+}
+.k1 img{
+    gap: 110px;
+    background-color: rgb(29, 130, 170);
+    padding: 20px;
+    border-radius: 10px;
+}
+button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+}
+.List ul li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+    padding: 3px;
+    letter-spacing: 2px;
+    list-style-type: circle;
+    list-style: none;
+    text-align: center;
+}

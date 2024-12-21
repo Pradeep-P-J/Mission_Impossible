@@ -1,0 +1,33 @@
+h1{
+
+    color: aliceblue;
+    padding: 20px;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/981/204/987/simple-background-wallpaper-preview.jpg);
+    /* background-color: rgb(43, 107, 226); */
+    border-radius: 50px;
+    box-shadow: 500;
+}
+form{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+}
+input{
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+label{
+    text-decoration:solid;
+}
+
+#llo{
+    font: optional;
+    padding: 15px;
+    border-radius:5px ;
+    background-color: rgb(89, 250, 89);
+}
+body{
+    background-image: url(https://hoylecohen.com/wp-content/uploads/login-page-bg.jpg);
+}
